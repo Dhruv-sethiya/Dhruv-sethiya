@@ -1,10 +1,12 @@
-# Hi, I'm Dhruv Sethiyaa 👋
+# Hi, I'm Dhruv Sethiya 👋
 
-### Aspiring Data Analyst | Python | SQL | Excel | Power BI | Tableau
+### Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
 I'm a B.Com graduate building practical skills in data analytics, business intelligence, and data visualization.
 
-I enjoy working with data to understand business performance, identify trends, and turn raw data into meaningful insights.
+I work on end-to-end analytics projects involving data cleaning, SQL analysis, Excel, Power BI, DAX, Python, and business insights.
+
+I'm currently looking for opportunities where I can apply my analytical and technical skills to real-world business problems.
 
 ---
 
@@ -18,6 +20,7 @@ I enjoy working with data to understand business performance, identify trends, a
 - Data Cleaning
 - Exploratory Data Analysis
 - Business Analysis
+- Statistics
 
 ### Business Intelligence
 - Power BI
@@ -65,6 +68,16 @@ Interactive business intelligence dashboard analyzing sales, customers, cuisines
 
 ---
 
+### 💰 Financial Performance Analytics
+
+**Excel · MySQL · SQL · Power BI · DAX · Power Query**
+
+End-to-end financial performance analysis using the Microsoft Financial Sample dataset, covering sales, profit, products, countries, segments, discounts, and monthly trends.
+
+🔗 [View Project](https://github.com/Dhruv-sethiya/financial-performance-analytics)
+
+---
+
 ## 🎓 Education
 
 **Bachelor of Commerce (B.Com.)**  
@@ -92,7 +105,13 @@ CSC Computer Education · 2019
 
 ## 🎯 Career Goal
 
-I'm currently looking for **entry-level Data Analyst, Junior Data Analyst, MIS Analyst, Reporting Analyst, and Business Analyst opportunities**.
+I'm currently looking for entry-level opportunities in:
+
+- Data Analyst
+- Junior Data Analyst
+- MIS Analyst
+- Reporting Analyst
+- Business Analyst
 
 I'm focused on building practical projects and developing the ability to turn business data into clear, actionable insights.
 
@@ -100,8 +119,8 @@ I'm focused on building practical projects and developing the ability to turn bu
 
 ## 📫 Connect With Me
 
-📧 **Email:** dhruvmanojkumarssethiya@gmail.com
+📧 Email: dhruvmanojkumarssethiya@gmail.com
 
-🔗 **LinkedIn:** [linkedin.com/in/dhruv-sethiya-08a24038a](https://www.linkedin.com/in/dhruv-sethiya-08a24038a)
+🔗 [LinkedIn](https://linkedin.com/in/dhruv-sethiya-08a24038)
 
-💻 **GitHub:** [github.com/Dhruv-sethiya](https://github.com/Dhruv-sethiya)
+💻 [GitHub](https://github.com/Dhruv-sethiya)
