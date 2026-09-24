@@ -6,7 +6,7 @@ I'm a B.Com graduate building practical skills in data analytics, business intel
 
 I work on end-to-end analytics projects involving data cleaning, SQL analysis, Excel, Power BI, DAX, Python, and business insights.
 
-I'm currently looking for opportunities where I can apply my analytical and technical skills to real-world business problems.
+I'm currently looking for opportunities to apply my analytical and technical skills to real-world business problems.
 
 ---
 
