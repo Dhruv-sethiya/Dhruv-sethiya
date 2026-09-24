@@ -119,7 +119,7 @@ I'm focused on building practical projects and developing the ability to turn bu
 
 ## 📫 Connect With Me
 
-📧 Email: dhruvmanojkumarssethiya@gmail.com
+📧 Email: dhruvmanojkumarsethiya@gmail.com
 
 🔗 [LinkedIn](https://linkedin.com/in/dhruv-sethiya-08a24038)
 
