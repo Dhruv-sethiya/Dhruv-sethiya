@@ -94,8 +94,9 @@ End-to-end financial performance analysis using the Microsoft Financial Sample d
 University of Madras — A.M. Jain College  
 First Class · 2025
 
-Certified in Data Analytics
+**Certified in Data Analytics**
 Pumo Technovation · 2026
+
 **Certified Python Full Stack Development**  
 Pumo Technovation · 2022
 
