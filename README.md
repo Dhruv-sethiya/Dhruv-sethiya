@@ -38,6 +38,16 @@ I'm currently looking for opportunities to apply my analytical and technical ski
 
 ## 📊 Featured Projects
 
+### 🌍 Global Ecommerce Sales Analytics
+
+**MySQL · SQL · Excel · Power BI · DAX · Power Query**
+
+End-to-end e-commerce analytics project analyzing 2,000 transactions to evaluate sales, profitability, product performance, customer segments, regional trends, payment methods, discounts, and shipping costs. Includes SQL analysis, Excel workbooks, business insights, and a three-page interactive Power BI dashboard.
+
+🔗 [View Project](https://github.com/Dhruv-sethiya/global_ecommerce_sales)
+
+---
+
 ### 🛒 Online Retail Sales Analytics
 
 **Python · MySQL · SQL · Excel · Tableau**
@@ -84,22 +94,13 @@ End-to-end financial performance analysis using the Microsoft Financial Sample d
 University of Madras — A.M. Jain College  
 First Class · 2025
 
+Certified in Data Analytics
+Pumo Technovation · 2026
 **Certified Python Full Stack Development**  
 Pumo Technovation · 2022
 
 **Honours Diploma in Computer Application (HDCA)**  
 CSC Computer Education · 2019
-
----
-
-## 📚 Currently Learning
-
-- Advanced Excel
-- SQL for Data Analysis
-- Power BI & DAX
-- Python & Pandas
-- Data Visualization
-- Statistics for Data Analysis
 
 ---
 
@@ -121,6 +122,6 @@ I'm focused on building practical projects and developing the ability to turn bu
 
 📧 Email: dhruvmanojkumarsethiya@gmail.com
 
-🔗 [LinkedIn](https://linkedin.com/in/dhruv-sethiya-08a24038)
+🔗 [LinkedIn](https://www.linkedin.com/in/dhruv-manojkumar-sethiya-427898419/)
 
 💻 [GitHub](https://github.com/Dhruv-sethiya)
