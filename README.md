@@ -2,7 +2,7 @@
 
 ### Data Analyst | Python | SQL | Excel | Power BI | Tableau
 
-I'm a B.Com graduate building practical skills in data analytics, business intelligence, and data visualization.
+I'm a B.Com graduate focused on Data Analytics and Business Intelligence, with hands-on experience building end-to-end projects using Python, SQL, Excel, Power BI, DAX, and Tableau.
 
 I work on end-to-end analytics projects involving data cleaning, SQL analysis, Excel, Power BI, DAX, Python, and business insights.
 
